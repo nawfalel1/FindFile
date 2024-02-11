@@ -1,0 +1,15 @@
+D:\dotnet\findFile\bin\Debug\net7.0\findFile.exe
+D:\dotnet\findFile\bin\Debug\net7.0\findFile.deps.json
+D:\dotnet\findFile\bin\Debug\net7.0\findFile.runtimeconfig.json
+D:\dotnet\findFile\bin\Debug\net7.0\findFile.dll
+D:\dotnet\findFile\bin\Debug\net7.0\findFile.pdb
+D:\dotnet\findFile\obj\Debug\net7.0\findFile.csproj.AssemblyReference.cache
+D:\dotnet\findFile\obj\Debug\net7.0\findFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\findFile\obj\Debug\net7.0\findFile.AssemblyInfoInputs.cache
+D:\dotnet\findFile\obj\Debug\net7.0\findFile.AssemblyInfo.cs
+D:\dotnet\findFile\obj\Debug\net7.0\findFile.csproj.CoreCompileInputs.cache
+D:\dotnet\findFile\obj\Debug\net7.0\findFile.dll
+D:\dotnet\findFile\obj\Debug\net7.0\refint\findFile.dll
+D:\dotnet\findFile\obj\Debug\net7.0\findFile.pdb
+D:\dotnet\findFile\obj\Debug\net7.0\findFile.genruntimeconfig.cache
+D:\dotnet\findFile\obj\Debug\net7.0\ref\findFile.dll
